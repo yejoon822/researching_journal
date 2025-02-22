@@ -1,0 +1,41 @@
+Grok: Grok is a generative AI chatbot developed by xAI. It is based on a large language model (LLM) and was developed on Elon Musk's initiative as a direct response to the rapid growth of ChatGPT, which was developed by OpenAI, a company he co-founded.
+
+ChatGPT: ChatGPT is a prototype conversational AI chatbot developed by OpenAI. It is built on GPT-3.5, an improved version of the large language model GPT-3, and was fine-tuned using both supervised learning and reinforcement learning.
+
+DeepSeek: The token price was 2 yuan per million output tokens, which is cheaper than competitors. On the leaderboard of the Waterloo University Tiger Lab, DeepSeek-V2 ranked 7th in the LLM rankings. In December 2024, DeepSeek-V3 was released. It has 671 billion parameters, was trained for about 55 days, and cost 5.58 million USD. It was trained using significantly fewer resources compared to other models.
+In May 2024, DeepSeek-V2 was released. The Financial Times reported that the token's price was 2 yuan per one million output tokens, making it cheaper than its competitors. 
+
+In December 2024, DeepSeek-V3 was released. It has 671 billion parameters, was trained for about 55 days, and cost 5.58 million dollars. It was trained using significantly fewer resources compared to others
+
+All three—Deepseek, ChatGPT, and Grok—use AI, but they are trained differently and have different functions. Let’s break it down in terms of training, deep learning, and model architecture.
+
+1. Training Process and Data Sources
+
+Deepseek (Search AI & Language Model)
+Training Type: Uses information retrieval and large-scale deep learning.
+Data Used: Mostly structured documents, databases, and text collections to find specific information.
+Training Goal: Instead of generating new text, Deepseek is optimized to search and retrieve the most relevant answer from existing data.
+ChatGPT (Conversational AI - OpenAI)
+Training Type: Uses deep learning with transformers (GPT model).
+Data Used: Trained on huge datasets (internet text, books, articles, and code).
+Training Goal: Learns how humans talk and responds in a natural way, but doesn’t "search" for answers like Deepseek. Instead, it generates responses based on learned patterns.
+Grok (Conversational AI - xAI, Elon Musk’s company)
+Training Type: Also based on deep learning transformers, like ChatGPT.
+Data Used: Trained on large text datasets, but may have a different dataset focus.
+Training Goal: Like ChatGPT, it is a conversational model. It may have a different personality and tone because of the way it was fine-tuned.
+
+
+2. Deep Learning and Model Architecture
+
+Deepseek
+Uses a combination of deep learning (transformers) and traditional search algorithms.
+Instead of predicting the next word (like ChatGPT), Deepseek focuses on retrieving the most accurate answers.
+It may use vector databases and embedding models to understand and match text efficiently.
+ChatGPT & Grok
+Both use transformer-based deep learning models (like GPT architecture).
+These models predict the next best word based on the context of the sentence.
+Unlike Deepseek, they generate text from scratch, which means they do not "look up" exact answers but create them based on probabilities.
+
+Deepseek vs. ChatGPT/Grok:
+Deepseek finds an existing answer and returns it.
+ChatGPT and Grok create a response based on probabilities.
