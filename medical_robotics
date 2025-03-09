@@ -1,0 +1,110 @@
+Medical robotics: advanced applications, technologies, and future trends.
+
+As a junior who is about to enter college, I am considering to study mechanical engineering, bio engineering, or computer science. I heard about Elon Musk's Neuralink, and was passionately researching about it. 
+As I was researching about those field, I learned that there is one special field that requires knowledge and understanding of all three studies.
+
+Combining robots, computer vision, artificial intelligence (AI), and precision engineering, medical robotics is a quickly expanding field that is revolutionizing healthcare.
+These robots reduce human error and improve treatment outcomes by improving surgical precision, recovery, diagnostics, and patient care. 
+Robotic medicine will become more autonomous, individualized, and accessible with the use of AI, 5G, and nano-robotics.
+
+Key Categories of Medical Robotics:
+
+Surgical Robotics
+
+Surgical robots assist or perform minimally invasive surgeries, increasing precision, dexterity, and control beyond human capability.
+
+1) Robot-Assisted Surgery (RAS)
+Uses robotic arms controlled by surgeons to perform delicate operations with minimal incisions.
+Provides greater accuracy, reduced blood loss, shorter recovery times, and fewer complications.
+Example: da Vinci Surgical System
+
+Developed by Intuitive Surgical, widely used in urology, gynecology, and cardiac surgeries.
+Features:
+Master-Slave Teleoperation: Surgeons control robotic arms remotely.
+4-Arm System: Includes a camera, surgical instruments, and two manipulator arms.
+3D HD Vision & Tremor Filtration: Provides superior visualization and stability.
+Other Surgical Robots
+
+MAKO SmartRobotics (Stryker): Used for orthopedic surgeries like knee and hip replacements.
+CORI Surgical System (Smith+Nephew): AI-assisted joint replacement.
+Hugo RAS (Medtronic): A competitor to da Vinci, focusing on laparoscopic surgeries.
+2) Autonomous Surgical Robots
+AI-powered robots that perform specific procedures with minimal human intervention.
+Examples:
+STAR (Smart Tissue Autonomous Robot) – Developed by Johns Hopkins, performs soft tissue suturing autonomously with higher accuracy than human surgeons.
+Hansen Medical’s Magellan – Used in cardiovascular procedures.
+
+Rehabilitation Robotics:
+
+These robots assist patients in regaining mobility and strength after injuries or surgeries.
+
+1) Exoskeletons
+Wearable robotic devices that aid movement for paralyzed or stroke patients.
+Examples:
+Ekso Bionics – Helps spinal cord injury patients walk again.
+ReWalk Robotics – FDA-approved for home and clinical use.
+2) Neurorehabilitation Robots
+AI-driven devices that stimulate neural plasticity, helping stroke victims recover motor functions.
+Examples:
+Armeo Spring (Hocoma) – Assists upper-limb rehabilitation.
+InMotion ARM (BIONIK Labs) – Helps patients with impaired arm movement.
+
+Diagnostic & Imaging Robotics:
+
+There was a very interesting topic about this I watched in Youtube, that an AI-powered device found inflammation embedded in the gums that the dentist with 20 years of experience could not find.
+So I researched about this topic further, and realized there are various AI-powered machines utilized in various field of medical treatments. 
+
+1) AI-Powered Imaging Assistants
+Use machine learning and computer vision to detect abnormalities.
+Examples:
+ZAP-X Gyroscopic Radiosurgery – AI-driven brain tumor treatment.
+Medtronic GI Genius – AI-powered endoscopy system for colorectal cancer detection.
+2) Robotic Biopsy Systems
+Enable precise tissue sampling with minimal invasiveness.
+Example:
+Monarch Platform (Auris Health) – AI-powered lung cancer biopsy system.
+D. Hospital & Patient Care Robots - I have actually experienced this, as my grandmother was once sick with knee issues. Since I live in Korea, one of the countries that have the most developed medical technology, 
+
+
+1) Robotic Nurses
+Assist in patient monitoring, drug delivery, and elderly care.
+Examples:
+Moxi (Diligent Robotics) – Autonomous hospital assistant that delivers supplies.
+Robear – Japan’s nursing-care robot that lifts patients.
+2) Disinfection Robots
+Use UV-C light or hydrogen peroxide mist to sterilize hospital environments.
+Examples:
+Xenex LightStrike – UV disinfection robot used in hospitals.
+TMiRob – AI-powered disinfection system in China.
+3) AI Chatbots & Virtual Assistants
+Provide mental health support, patient education, and symptom assessment.
+Examples:
+Woebot – AI chatbot for mental health therapy.
+Babylon Health – AI-powered telemedicine assistant.
+E. Prosthetics & Bionics
+
+Advanced robotic limbs enhance mobility and functionality for amputees.
+
+1) AI-Powered Prosthetics
+Neural control interfaces allow patients to control robotic limbs with brain signals.
+Examples:
+Myoelectric Prosthetics – Uses muscle signals (e.g., Ossur’s i-Limb).
+Brain-Computer Interface (BCI) Prosthetics – Connects directly to the nervous system (e.g., DARPA’s LUKE Arm).
+2) Sensory Feedback & Touch Simulation
+Next-gen prosthetics integrate haptic sensors for real-time touch sensation.
+Example:
+Michelangelo Hand (Ottobock) – Offers fine motor control and sensory feedback.
+2. Cutting-Edge Technologies in Medical Robotics
+
+A. Artificial Intelligence (AI) & Machine Learning
+
+Deep learning algorithms analyze medical imaging, surgical data, and patient records to enhance decision-making.
+AI-powered robots learn from millions of surgeries, improving precision over time.
+B. Computer Vision & Augmented Reality (AR)
+
+Robotic surgery platforms use AR for real-time organ visualization.
+HoloLens 2 (Microsoft): Assists surgeons by overlaying 3D anatomical models during operations.
+C. Tactile Sensors & Haptics
+
+Robots use force sensors to mimic human touch, improving grip and dexterity.
+Soft robotic grippers enable delicate tissue handling.
